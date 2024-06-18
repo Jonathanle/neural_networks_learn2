@@ -1,0 +1,33 @@
+For the first exercise, I want to have the task of classifying things into certain categories based on the non-linear dataset, 
+I will use a multilayer perceptron network in order to train this network for activation.
+
+
+- I will learn more rigorously why every component of a multilayer pereptron network is used in order to solve a task.
+
+
+- How can I build a classifier that recognizes digits?
+
+ - Do not manually directly tell the classifier how to behave for the parameters
+ - Use neural-network
+- Can I build a classifier that recognizes the digit 8?
+
+
+- End Goal - Classifier
+
+
+
+1. Framework 1 - Learning and Classification as Factor Exercise
+Weigh on Certain Factors (With no Bias) --> sum
+- With no bias, assign a bias to each function
+
+
+Keywords 
+- Activation Function --> encoding belief creating an interface of belief in a certain factor.
+- Bias - 
+
+
+
+AIM 
+- When it 
+
+- Finding composite features.
